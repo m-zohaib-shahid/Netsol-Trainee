@@ -2,6 +2,7 @@
 
 Daily documentation of applied ML & Linear Algebra concepts from 
 NETSOL's NIAI-NAVTTC AI/ML Cohort II training.
+
 ## 🎯 Purpose
 Public accountability log — every concept implemented in code, not 
 just theory. Based on *Introduction to Applied Linear Algebra* 
