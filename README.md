@@ -18,7 +18,6 @@ just theory. Based on *Introduction to Applied Linear Algebra*
 ## 🛠️ Stack
 - Python, NumPy, Matplotlib, SciPy (sparse)
 - Jupyter Notebooks
-
 ## 📈 Why This Repo Exists
 Linear algebra is the backbone of every ML model. This is my proof 
 of work — implementing the math before trusting the black-box libraries.
